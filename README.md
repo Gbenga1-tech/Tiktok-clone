@@ -1,2 +1,2 @@
 # Tiktok-clone
-my first react project
+my first react project from codedamn
